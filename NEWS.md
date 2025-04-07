@@ -1,3 +1,9 @@
+## Changes in version 1.32.0
+
+### Bug fixes and minor improvements
+
+* Added package anchors to links in documentation
+
 ## Changes in version 1.30.0
 
 ### New features
