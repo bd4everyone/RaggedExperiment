@@ -1,0 +1,6 @@
+title: RaggedExperiment
+
+template:
+  bootstrap: 5
+  params:
+    bootswatch: flatly
